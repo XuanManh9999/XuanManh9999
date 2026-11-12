@@ -4,7 +4,7 @@
 
 <h1 align="center">Nguyen Xuan Manh</h1>
 <p align="center">
-  <b>Full-stack Developer · Hanoi, Vietnam</b><br>
+  <b>Full-stack Developer · AI RAG · Hanoi, Vietnam</b><br>
   Building custom websites, apps and software solutions, from idea to production.
 </p>
 
@@ -18,7 +18,10 @@
 
 ## 👨‍💻 About me
 
-- 💼 Software developer at **CGV Telecom**, working on billing, booking and ticketing systems for a telecom business
+- 💼 Software developer at **CGV Telecom**, contributing to:
+  - 🤖 **AI RAG**: an AI assistant that answers questions over company data (Retrieval-Augmented Generation)
+  - 💬 **OmniHub**: a platform that unifies customer communication and support channels
+  - 🧾 **Billing**, **Booking** and **Ticketing** systems for a telecom business
 - 🚀 Founder of **doansinhvien24h.vn** and **manhtool.id.vn**, two platforms I build and run myself
 - 🤝 Delivering custom software for individuals, online shops and small businesses
 - 👨‍🏫 1-on-1 Full-stack programming mentor, teaching through real projects
@@ -37,7 +40,6 @@
 | Project | Description |
 |---|---|
 | ⚽ [**moizefb.com**](https://moizefb.com) | eFootball account management, consignment and rental platform for **[Spidermoizz](https://www.tiktok.com/@spidermoizz)** (TikTok creator). Coded account catalog, price filters, detail pages and admin panel. I developed and upgraded the whole system. |
-| ⚽ [**duckefb.com**](https://duckefb.com) | The same platform deployed separately for another client: one codebase, multiple independent shops |
 
 ## 💼 Services
 
@@ -80,8 +82,14 @@
   <img src="https://img.shields.io/badge/FastAPI%20%2F%20Django-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI / Django">
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AI_RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI RAG">
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
