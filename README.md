@@ -4,7 +4,7 @@
 
 <h1 align="center">Nguyễn Xuân Mạnh</h1>
 <p align="center">
-  <b>Full-stack Developer · Hà Nội</b><br>
+  <b>Full-stack Developer · AI RAG · Hà Nội</b><br>
   Phát triển Website, App và giải pháp phần mềm theo yêu cầu, từ ý tưởng đến sản phẩm chạy thật.
 </p>
 
@@ -18,7 +18,10 @@
 
 ## 👨‍💻 Về mình
 
-- 💼 Lập trình viên tại **CGV Telecom**: hệ thống billing, booking, ticketing cho doanh nghiệp viễn thông
+- 💼 Lập trình viên tại **CGV Telecom**, tham gia phát triển:
+  - 🤖 **AI RAG**: trợ lý AI hỏi đáp trên dữ liệu doanh nghiệp (Retrieval-Augmented Generation)
+  - 💬 **OmniHub**: nền tảng tập trung kênh liên lạc và chăm sóc khách hàng
+  - 🧾 Hệ thống **Billing**, **Booking**, **Ticketing** cho doanh nghiệp viễn thông
 - 🚀 Founder **doansinhvien24h.vn** và **manhtool.id.vn**, hai nền tảng mình tự xây dựng và vận hành
 - 🤝 Nhận phát triển giải pháp công nghệ cho cá nhân, shop và doanh nghiệp nhỏ
 - 👨‍🏫 Gia sư lập trình Full-stack 1-1, học trên dự án thật
@@ -37,7 +40,6 @@
 | Dự án | Mô tả |
 |---|---|
 | ⚽ [**moizefb.com**](https://moizefb.com) | Nền tảng quản lý, ký gửi và cho thuê tài khoản eFootball cho **[Spidermoizz](https://www.tiktok.com/@spidermoizz)** (TikToker). Danh mục acc theo mã, lọc theo giá, trang chi tiết và quản trị. Mình phát triển và nâng cấp toàn bộ hệ thống. |
-| ⚽ [**duckefb.com**](https://duckefb.com) | Cùng nền tảng trên, triển khai riêng cho một khách hàng khác: một mã nguồn, nhiều shop độc lập |
 
 ## 💼 Dịch vụ
 
@@ -80,8 +82,14 @@
   <img src="https://img.shields.io/badge/FastAPI%20%2F%20Django-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI / Django">
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AI_RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI RAG">
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
